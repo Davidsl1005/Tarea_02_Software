@@ -1,0 +1,4 @@
+
+# Ignorar imágenes y fichero local
+imagenes/
+git_local.txt
